@@ -6,14 +6,20 @@
 
 --------------------------------------------------------------------------------------------------------------------------------
 Goals:
-Getting a windows desktop application up and running. We will first create an application that prints out "Howdy World!"
-Getting a feel for Windows APIs and Calendar APIs
-Using the APIs to create a simple calendar interface on our desktop application.
-Making our calendar increasingly complex, such as adding different styles of time outlook (week at a glance, month at a glance) and functionalities that allow the user to type in events to be shown on the calendar.
+
+-Getting a windows desktop application up and running. We will first create an application that prints out "Howdy World!"
+
+-Getting a feel for Windows APIs and Calendar APIs
+
+-Using the APIs to create a simple calendar interface on our desktop application.
+
+-Making our calendar increasingly complex, such as adding different styles of time outlook (week at a glance, month at a glance) and functionalities that allow the user to type in events to be shown on the calendar.
 
 Hopes (Not necessarily things we plan on achieving):
-Utilizing A&M databases to preinstall student schedules.
-Color coding different classes based upon the student's grade in those classes
+
+-Utilizing A&M databases to preinstall student schedules.
+
+-Color coding different classes based upon the student's grade in those classes
 
 **We will try to create a schedule that keeps us on track to meet our goals although it will not necessarily be binding. This IS a learning based project, and we all have classes to study for!!
 
