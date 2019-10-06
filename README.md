@@ -2,7 +2,8 @@
 
 ***This README file contains a little bit about our goals for the project and some Git basics. I know it's a lot of information right now, but much of it will be used for reference if you are confused with something and need some basic instruction to jog your memory!
 
-This repository will be utilized to collaborate amongst each other and keep our source code in one place!!
+**This repository will be utilized to collaborate amongst each other and keep our source code in one place!!
+
 --------------------------------------------------------------------------------------------------------------------------------
 Goals:
 Getting a windows desktop application up and running. We will first create an application that prints out "Howdy World!"
@@ -14,7 +15,8 @@ Hopes (Not necessarily things we plan on achieving):
 Utilizing A&M databases to preinstall student schedules.
 Color coding different classes based upon the student's grade in those classes
 
-We will try to create a schedule that keeps us on track to meet our goals although it will not necessarily be binding. This IS a learning based project, and we all have classes to study for!!
+**We will try to create a schedule that keeps us on track to meet our goals although it will not necessarily be binding. This IS a learning based project, and we all have classes to study for!!
+
 -------------------------------------------------------------------------------------------------------------------------------------
 If you have never used Git or GitHub before, here is some basic information and instruction: 
 
