@@ -46,10 +46,15 @@ So.... commits are stored in branches, and branches are stored in the repository
 We will be using the command-line to work with Git and GitHub, so here are some of the commands (which will be given context later in the file)!:
 
 git clone *url here*  --This will copy the remote repository onto your local computer
+
 git status   -- This basically tells us the difference between our local repository files and remote repository files
+
 git add  --Utilized basically anytime we create a new file or need to commit something
+
 git commit  --This tells Git to create a snapshot of our current code and locks in the changes we have made to the source file on the local repository
+
 git push  --This saves all of our local changes to the remote repository on GitHub
+
 git pull --This retrieves changes made by other people back into your local repository
 
 **Note: This is not an all-inclusive list but the most basic and prominently used commands. The step-by-step directions below introduce some more commands!!
