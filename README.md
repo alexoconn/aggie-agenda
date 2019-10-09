@@ -103,4 +103,4 @@ https://www.youtube.com/watch?v=0fKg7e37bQE --Walks you through the basic comman
 
 https://www.youtube.com/watch?v=GZILYABgAoo --Talks about branches, merging, and pull requests
 
-Hello World Windows Desktop App--https://docs.microsoft.com/en-us/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=vs-2019
+https://docs.microsoft.com/en-us/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=vs-2019 -- Hello World Windows Desktop App
