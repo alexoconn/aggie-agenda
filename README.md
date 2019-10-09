@@ -99,5 +99,8 @@ If your branch turned out successful, you now must merge your branch with the ma
 If you have any questions at any time, please do not hesitate to contact us project managers!
 
 Additionally, here is are some links that might help you understand Git and GitHub better:
-https://www.youtube.com/watch?v=0fKg7e37bQE --Walks you through the basic commands and explains the applications of them
+https://www.youtube.com/watch?v=0fKg7e37bQE --Walks you through the basic commands and explains the applications of them\
+
 https://www.youtube.com/watch?v=GZILYABgAoo --Talks about branches, merging, and pull requests
+
+Hello World Windows Desktop App--https://docs.microsoft.com/en-us/cpp/windows/walkthrough-creating-windows-desktop-applications-cpp?view=vs-2019
