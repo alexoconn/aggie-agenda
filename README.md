@@ -15,6 +15,7 @@ Goals:
 
 -Making our calendar increasingly complex, such as adding different styles of time outlook (week at a glance, month at a glance) and functionalities that allow the user to type in events to be shown on the calendar.
 
+
 Hopes (Not necessarily things we plan on achieving):
 
 -Utilizing A&M databases to preinstall student schedules.
