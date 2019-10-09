@@ -36,8 +36,11 @@ GitHub is really just an extension of Git. It's essentially a cloud or hosting s
 
 
 Basic Terminology:
+
 Repository- This can be thought of as really just a folder. It stores all versions of the source files in an organized manner. The repository can either be local (the one on your computer) or remote (the one on github.com)
+
 Commits- These are just saved versions of your code. This is analogous to clicking "save" when you are constructing a file.
+
 Branches- These are where commits are stored.
 
 So.... commits are stored in branches, and branches are stored in the repository. 
@@ -67,7 +70,9 @@ Creating a Local Repository:
 
 2. Use the git clone command in your command-line to store the repository in whatever folder you would like (If you don't know your command-line commands for your OS, please talk to us Project Managers or look them up online! No reason to fret!)
 
+
 Creating a Branch and Adding Commits to it:
+
 Remember, a branch is simply where commits (or saved versions of your code) are stored. There's a default master branch that serves as a history of all changes made to the project. However, we will be creating new branches anytime we want to start adding on to our project. We want to keep the master branch as concise as possible with commits we know we need and we know contain snapshots of code that function properly.
 
 1. To create a branch, simply write the command: git branch "branch name".
@@ -80,7 +85,9 @@ Remember, a branch is simply where commits (or saved versions of your code) are 
 
 5. Once you have finished your branch, write: git push origin "local branch name" : "remote branch name" to transfer over your commits and branch to the remote repository.
 
+
 Merging Branches/Pull Requests:
+
 If your branch turned out successful, you now must merge your branch with the master branch so that your contributions to the project can be saved to the commit on the master branch. Remember, your branch was more of a test, and the master branch is the main copy of the project.
 
 1. Submit a pull request. This will allow us to see the changes you've made and decide whether they should be added onto the main copy of the project. 
